@@ -1,0 +1,36 @@
+#tarjeta{
+    border: 6px solid plum;
+    background-color: palegoldenrod;
+    padding: 15px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+body{
+    width: 100%;
+    margin: 0;
+    background-image: url(https://1.bp.blogspot.com/-3Lo73rP1dUg/T5g8PGCkhaI/AAAAAAAAjWE/hYrXD8aQ6VE/s1600/z7002309_xl.jpg);
+}
+
+img{
+    width: 100%;
+}
+h1{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 45px;
+}
+h2{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 45px;
+}
